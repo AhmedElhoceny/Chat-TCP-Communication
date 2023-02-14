@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "TCP_listener_V_2": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
